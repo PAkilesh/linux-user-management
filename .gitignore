@@ -1,0 +1,17 @@
+# Generated audit reports and logs
+reports/
+*.log
+
+# Local backups
+*_v1.sh
+*.bak
+
+# Temporary files
+*.tmp
+*.swp
+*~
+
+# Credentials and secrets
+.env
+*.key
+*.pem
